@@ -1,0 +1,17 @@
+.Lnb {
+  margin-top: 80px;
+  width: 100%;
+  height: 200px;
+  color: #fff;
+  background-color: black;
+  padding: 20px;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+.Lnb .Lnb_title,
+.Lnb .Lnb_column {
+  width: 100%;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 15px;
+}
